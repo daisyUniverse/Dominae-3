@@ -11,6 +11,7 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="config.json" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
       </e>
